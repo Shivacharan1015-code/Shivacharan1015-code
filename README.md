@@ -1,6 +1,4 @@
-<h3 align="center">iOS Full-Stack Developer (Swift), C, C++, Python, NoSQL</h3>
-
-- Portfolio [https://www.shivacharan.tech](https://www.shivacharan.tech)
+<h3 align="center">iOS Full-Stack Developer (Swift), C, C++, Python</h3>
 
 - Mail **4cbsdfz0@duck.com**
 
